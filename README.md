@@ -1,11 +1,11 @@
 # Full Back-end Specialization
 
 ## Description
-- This repository contains files and sub-repositories created for a deeper understanding of sound backend systems.
+> This repository contains files and sub-repositories created for a deeper understanding of sound backend systems.
 
 ## Requirements
 - Language(s): `JavaScript`, `node.js`, `express.js`, `TypeScript`
-- Database(s): `MongoDB`, 'GraphQL'
+- Database(s): `MongoDB`, `GraphQL`
 - Editor(s): `vim`, `VS code`
 - OS: `GNU/Linux` any distribution (I use Ubuntu `24.04 LTS`)
 - Linter: `eslint`
