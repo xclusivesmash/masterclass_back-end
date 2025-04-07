@@ -5,7 +5,7 @@
 
 ## Requirements
 - Language(s): `JavaScript`, `node.js`, `express.js`, `TypeScript`
-- Database(s): `MongoDB`, 'GraphQL'
+- Database(s): `MongoDB`, `GraphQL`
 - Editor(s): `vim`, `VS code`
 - OS: `GNU/Linux` any distribution (I use Ubuntu `24.04 LTS`)
 - Linter: `eslint`
