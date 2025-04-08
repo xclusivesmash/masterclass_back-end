@@ -1,6 +1,9 @@
 set number autoindent shiftwidth=2 tabstop=2
 colorscheme habamax
 
+" download the plugin using curl: curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" install node and npm: sudo apt install node npm -y
+
 " Begin plugin section
 call plug#begin('~/.vim/plugged')
 " Add coc.nvim
