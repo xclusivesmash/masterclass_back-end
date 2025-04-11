@@ -1,0 +1,14 @@
+{
+  "name": "express_module",
+  "version": "1.0.0",
+  "description": "Learning all about the express module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siphamandla Matshiane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
