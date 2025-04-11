@@ -16,6 +16,13 @@
 - Real-time Applications
 - Microservices
 
+### Installation
+- Make sure to run the following commands before using the module:
+```
+npm init -y
+npm install express
+```
+
 ## Requirements
 - OS: `Ubuntu 24.04 LTS`
 - language: `node.js`
