@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		    <meta charset="UTF-8">
+				<meta http-equiv="X-UA-Compatible" content="IE-edge">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>Doughnut Shop</title>
+		</head>
+		<body>
+		    <% const firstName = "Siphamandla" %>
+				<h2>Doughnut Shop Content</h2>
+				Hellow Mr. <%= firstName %> <br>
+				<% doughnuts = ["Plain","Chocolate","Raised","Orange"]; %>
+				<% for (let iCount=0;iCount<doughnuts.length;iCount++) { %>
+				    - <%= doughnuts[iCount]; %>
+						<br>
+				<% } %>
+		</body>
+</html>
