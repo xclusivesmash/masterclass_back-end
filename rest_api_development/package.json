@@ -1,0 +1,14 @@
+{
+  "name": "rest_api_development",
+  "version": "1.0.0",
+  "description": "## Description > REST (Representational State of Resource) API development is an architectural style for designing networked applications. It is based on the idea of resources, which are identified by URIs, and can be manipulated using a fixed set of operations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siphamandla Matshiane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
