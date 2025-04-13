@@ -13,7 +13,9 @@
 ### Installation (Ubuntu 24.04 LTS)
 ```
 sudo apt update
-sudo apt install nodejs express -y
+sudo apt install nodejs npm -y
+npm init -y
+npm install express
 ```
 
 ## Requirements
