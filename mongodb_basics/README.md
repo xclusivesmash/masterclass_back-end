@@ -20,8 +20,7 @@
 ### Installation (Ubuntu 24.04 LTS)
 ```
 sudo apt update
-sudo apt install mongodb -y
-npm install mongodb
+npm install mongoose
 ```
 
 ## Requirements
