@@ -7,6 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 // connect to the database
 connectToDatabase();
+// middleware -> express.json()
 app.use(express.json());
 // routes here
 app.use("/api/books", router);
