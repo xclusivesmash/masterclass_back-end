@@ -9,6 +9,7 @@
   "author": "Siphamandla Matshiane",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "mongodb": "^6.15.0",
     "mongoose": "^8.13.2"
   }
