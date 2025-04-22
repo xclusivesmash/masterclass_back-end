@@ -24,9 +24,9 @@ sudo apt update
 sudo apt install nodejs npm -y
 ``` 
 
-### Bcrypt, express, dotenv and jsonwebtoken
+### Bcrypt, express, dotenv, mongoose and jsonwebtoken
 ```
-npm install bcrypt express dotenv jsonwebtoken 
+npm install bcrypt express dotenv jsonwebtoken mongoose
 ```
 
 ### dev dependency: nodemon
