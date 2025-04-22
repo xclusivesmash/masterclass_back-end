@@ -1,9 +1,11 @@
+require("dotenv").config();
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
 // connect to the database
-const password = encodeURIComponent('JZ#Pi@E9KVmqr"!');
-mongoose.connect(`mongodb+srv://sbumatshiane916:${password}@cluster0.cch6hrt.mongodb.net/`)
+const password = encodeURIComponent(process.env.PASS_CODE);
+const username = process.env.USER_NAME;
+mongoose.connect(`mongodb+srv://${username}:${password}@cluster0.cch6hrt.mongodb.net/`)
 .then(() => {
     console.log("Database connected successfully");
 }).catch((error) => {
